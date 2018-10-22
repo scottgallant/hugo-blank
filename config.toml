@@ -19,7 +19,7 @@ destination = "../dist/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Enable this to have links relativized by Hugo
-# E.g,  if your /post/first/ page contains a link 
+# E.g,  if your /post/first/ page contains a link
 # to /about/, Hugo will rewrite the URL to ../../about/
 relativeURLs = false
 
@@ -42,11 +42,9 @@ author = "Your name"
 # Site Menus
 # See the Hugo docs for usage in layouts
 # https://gohugo.io/content-management/menus/
-[[menu.main]]
-  name = "Home"
-  weight = 1
-  identifier = "home"
-  url = "/"
+
+
+[[menu.test]]
 
 # Related Content
 # ---------------
@@ -73,4 +71,3 @@ author = "Your name"
 #   name = "date"
 #   pattern = "2006"
 #   weight = 10
-
