@@ -1,5 +1,10 @@
 ---
-title:  "Welcome to Hugo!"
+title: Welcome to Hugo!
+menu:
+  test:
+    name: Welcome To Hugo
+    weight: 1
+
 ---
 You’ll find this post in your `content/posts` directory.
 
