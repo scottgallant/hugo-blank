@@ -3,8 +3,8 @@ label: Posts
 hide_body: false
 is_partial: false
 fields:
-- name: cat
-  label: Cat
+- name: title
+  label: Title
   type: text
   hidden: false
   default: ''
