@@ -1,7 +1,7 @@
 ---
-label: Welcome to Hugo!
-hide_body: 
-is_partial: 
+label: Posts
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
