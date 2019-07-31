@@ -31,4 +31,6 @@ build:
   preview_output_directory: public
   output_directory: public
   instant_preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  preview_docker_image: forestryio/build:latest
+  mount_path: "/opt/buildhome/repo"
 version: 0.49.2
