@@ -8,4 +8,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/posts/test.fr.md
+- content/posts/test.md
